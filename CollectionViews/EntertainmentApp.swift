@@ -6,3 +6,9 @@
 //
 
 import Foundation
+struct EntertainmentApp {
+    
+    let section : String
+    let imageGallery  : [String]
+    
+}
